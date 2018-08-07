@@ -5,4 +5,5 @@ This program uses APIs and the freenode.net webchat services to implement a chat
 This chatbot uses two main APIS: 
 1. weather api
 2. TimeZonedb api. 
+
 It enables other users to join the chat server and the channel for this program. The two main things the chat bots returns are the weather and the local time and time zone. To use this program, refer to the documentation in the program.
